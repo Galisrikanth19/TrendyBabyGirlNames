@@ -13,6 +13,7 @@
 		DD568850262A13CF00280B8D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD56884E262A13CF00280B8D /* LaunchScreen.storyboard */; };
 		DD568864262A16AA00280B8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD568863262A16AA00280B8D /* Assets.xcassets */; };
 		DD568867262A16B500280B8D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD568866262A16B500280B8D /* Main.storyboard */; };
+		DD56886A262A182000280B8D /* NamesList in Resources */ = {isa = PBXBuildFile; fileRef = DD568869262A182000280B8D /* NamesList */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DD568851262A13CF00280B8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD568863262A16AA00280B8D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD568866262A16B500280B8D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		DD568869262A182000280B8D /* NamesList */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NamesList; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				DD568847262A13CD00280B8D /* ViewController.swift */,
 				DD568863262A16AA00280B8D /* Assets.xcassets */,
 				DD568866262A16B500280B8D /* Main.storyboard */,
+				DD568869262A182000280B8D /* NamesList */,
 				DD56884E262A13CF00280B8D /* LaunchScreen.storyboard */,
 				DD568851262A13CF00280B8D /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD568867262A16B500280B8D /* Main.storyboard in Resources */,
+				DD56886A262A182000280B8D /* NamesList in Resources */,
 				DD568864262A16AA00280B8D /* Assets.xcassets in Resources */,
 				DD568850262A13CF00280B8D /* LaunchScreen.storyboard in Resources */,
 			);
